@@ -16,12 +16,16 @@ PyQtWebEngine
 ## Installation
 Clone this repository to your local machine or download the source code as a ZIP file.
 Install the required dependencies using pip:
+```
 pip install PyQt5 PyQtWebEngine
+```
 
 ## Usage
 To launch the web browser, execute the Python script:
 
+```
 python simple_web_browser.py
+```
 
 The web browser window will open, and you can start browsing the internet by entering URLs in the URL bar and using the navigation buttons.
 
